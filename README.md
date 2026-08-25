@@ -15,7 +15,7 @@
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/'É um quase programador né?'-black" />
+  <img src="https://img.shields.io/badge/É um quase programador né?-black" />
 </div>
 
 <br>
