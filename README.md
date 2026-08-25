@@ -23,6 +23,17 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7CF38&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Good+Afternoon.;Good+Evening.;Good+Night." alt="Typing SVG" /></a>
 </div>
 
+<br>
+<details align="center">
+    <summary>
+      <samp>
+        <b>Habilidades e Conhecimentos</b>
+      </samp>
+    </summary>
+    <br>
+<div align="center">
+
+
 <div style="display: inline_block">
   
   <img align="center" alt="HTML" height="50" width="50" src="https://img.icons8.com/color/2x/html-5.png">
@@ -37,5 +48,7 @@
 
 
 </div>
+
+</details>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F7CF38&height=100&section=footer"/>
