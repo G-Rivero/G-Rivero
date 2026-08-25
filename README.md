@@ -11,15 +11,12 @@
       
 </div>
 
-<br>
-<br>
 
-<br>
 <div align="center" width="100%">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7CF38&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Good+Afternoon.;Good+Evening.;Good+Night." alt="Typing SVG" /></a>
 </div>
 
-<br>
+
 <details align="center">
     <summary>
       <samp>
