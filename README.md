@@ -1,30 +1,26 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=5cadc0"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=F7CF38"/>
 
 
 <div align="center">
   <samp>
-    <b>
-      Bom dia, boa tarde, boa noite, meu nome é Guilherme !
-      <br>
-      🌱 - Atualmente cursando Desenvolvimento de Sistemas
-      🔭 - Quero seguir com desenvolvimento back-end ou analista de dados
-      🤔 - Procurando dicas de como melhorar na programação
-      <br>
+    <h3>Bom dia, boa tarde, boa noite, meu nome é Guilherme !</h3>
+    <br>
+    <p>🌱 - Atualmente cursando Desenvolvimento de Sistemas</p>
+    <p>🔭 - Quero seguir com desenvolvimento back-end ou analista de dados</p> 
+    <p>🤔 - Procurando dicas de como melhorar na programação</p> 
+      
 </div>
 
 <br>
 <br>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="200">
-</div>
 <div align="center">
   <img src="https://img.shields.io/badge/Bom dia, boa tarde, boa noite, meu nome é Guilherme !-black" />
 </div>
 
 <br>
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ae2323&width=900&size=21&center=true&lines=Java;Python;C#;Starter;Welcome!" alt="Typing SVG"/>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7CF38&center=true&vCenter=true&multiline=true&width=435&lines=Good+Afternoon.;Good+Evening.;Good+Night." alt="Typing SVG" /></a>
 </div>
 
 
@@ -40,7 +36,7 @@
 
 
 <div style="display: inline_block">
-  <img align="center" alt="Git" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+  
   <img align="center" alt="HTML" height="50" width="50" src="https://img.icons8.com/color/2x/html-5.png">
   <img align="center" alt="CSS" height="50" width="50" src="https://img.icons8.com/color/2x/css3.png">
   <img align="center" alt="Excel" height="70" width="70" src="https://static.vecteezy.com/system/resources/previews/022/100/783/non_2x/microsoft-excel-logo-transparent-free-png.png">
@@ -66,4 +62,4 @@
 
 </details>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5cadc0&height=100&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F7CF38&height=100&section=footer"/>
