@@ -1,36 +1,4 @@
-<div align="center">
-  <div style="background-color: black; padding: 20px; font-family: monospace; overflow: hidden; height: 150px; width: 300px; border: 2px solid #0F0; border-radius: 5px;">
-    <svg xmlns="http://w3.org" viewBox="0 0 300 150" width="100%" height="100%">
-      <style>
-        .matrix-text {
-          fill: #00FF00;
-          font-family: monospace;
-          font-size: 14px;
-          writing-mode: vertical-rl;
-          text-orientation: upright;
-          animation: queda 3s linear infinite;
-        }
-        .col1 { animation-delay: 0s; }
-        .col2 { animation-delay: 0.5s; }
-        .col3 { animation-delay: 1.2s; }
-        .col4 { animation-delay: 0.8s; }
-        .col5 { animation-delay: 1.5s; }
-        @keyframes queda {
-          0% { transform: translateY(-150px); opacity: 0; }
-          10% { opacity: 1; }
-          90% { opacity: 1; }
-          100% { transform: translateY(150px); opacity: 0; }
-        }
-      </style>
-      <!-- Colunas de texto simulando o efeito -->
-      <text x="30" y="0" class="matrix-text col1">日ハミヒ492A</text>
-      <text x="80" y="0" class="matrix-text col2">Z7X9ウクスツ</text>
-      <text x="140" y="0" class="matrix-text col3">01K5ネヘメレ</text>
-      <text x="200" y="0" class="matrix-text col4">マヤラワ83J</text>
-      <text x="260" y="0" class="matrix-text col5">Q6P0ヲゴゾド</text>
-    </svg>
-  </div>
-</div>
+<img width="100%" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzV3ZGsyajVwODNrY2ZoMmwydTF6M3F2OGh4ZXV1Zmt4ZWNhcHRiNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q9aBxHn9fTqKs/giphy.gif"/>
 
 
 <div align="center">
