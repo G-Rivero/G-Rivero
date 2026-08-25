@@ -3,11 +3,11 @@
 
 <div align="center">
   <samp>
-    <h3>Bom dia, boa tarde, boa noite, meu nome é Guilherme !</h3>
+    <h3>Welcome! Meu nome é Guilherme, e:</h3>
     <br>
     <p>🌱 - Atualmente cursando Desenvolvimento de Sistemas</p>
     <p>🔭 - Quero seguir com desenvolvimento back-end ou analista de dados</p> 
-    <p>🤔 - Procurando dicas de como melhorar na programação</p> 
+    <p>🤔 - Procuro dicas de como melhorar na programação</p> 
       
 </div>
 
@@ -20,20 +20,8 @@
 
 <br>
 <div align="center" width="100%">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7CF38&center=true&vCenter=true&multiline=true&width=435&lines=Good+Afternoon.;Good+Evening.;Good+Night." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7CF38&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Good+Afternoon.;Good+Evening.;Good+Night." alt="Typing SVG" /></a>
 </div>
-
-
-<br>
-<details align="center">
-    <summary>
-      <samp>
-        <b>More Info</b>
-      </samp>
-    </summary>
-    <br>
-<div align="center">
-
 
 <div style="display: inline_block">
   
@@ -49,17 +37,5 @@
 
 
 </div>
-
-<br>
-
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emilly-vitoria-dantas/emilly-vitoria-dantas/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduardavieira-dev/emilly-vitoria-dantas/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/emilly-vitoria-dantas/emilly-vitoria-dantas/pacman-contribution-graph.svg">
-</picture>
-
-</details>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F7CF38&height=100&section=footer"/>
