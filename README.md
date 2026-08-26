@@ -28,7 +28,7 @@
 
 <h5>Tecnologias</h5>
 <div style="display: inline_block">
-  <img align="center" alt="Java" height="50" width="50" src="https://static.vecteezy.com/system/resources/previews/048/332/150/non_2x/java-programming-language-java-logo-free-png.png">
+  <img align="center" alt="Java" height="50" width="50" src="[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)">
   <img align="center" alt="Python" height="50" width="50" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-1024.png">
   <img align="center" alt="CSharp" height="50" width="50" src="https://iconape.com/wp-content/png_logo_vector/c.png">
   <img align="center" alt="HTML" height="50" width="50" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/html-icon.png">
