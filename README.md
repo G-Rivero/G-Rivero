@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=F7CF38&text=WELCOME!&fontColor=FFFF" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=F7CF38&text=WELCOME!" />
   <samp>
     <h3>Meu nome é Guilherme, e:</h3>
     <br>
