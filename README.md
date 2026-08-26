@@ -13,12 +13,7 @@
 
   <!-- Layer 2: por cima -->
   <img src="https://typingsvg.vercel.app/api/svg?lines=%5B%7B%22text%22%3A%22Welcome%21%22%2C%22typingSpeed%22%3A0.2%2C%22deleteSpeed%22%3A0.1%7D%2C%7B%22text%22%3A%22Bem-Vindo%21%22%7D%2C%7B%22text%22%3A%22Willkommen%21%22%7D%5D" 
-    style="
-      position: absolute;
-      top: 50%;
-      left: 50%;
-      transform: translate(-50%, -50%);
-      z-index: 2; />
+/>
 
 
 </div>
