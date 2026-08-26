@@ -2,10 +2,7 @@
 
   <image
     href="https://typingsvg.vercel.app/api/svg?lines=%5B%7B%22text%22%3A%22Welcome%21%22%2C%22typingSpeed%22%3A0.2%2C%22deleteSpeed%22%3A0.1%7D%2C%7B%22text%22%3A%22Bem-Vindo%21%22%7D%2C%7B%22text%22%3A%22Willkommen%21%22%7D%5D"
-    x="0"
-    y="100"
-    width="1200"
-    height="100"
+
   />
 
 
