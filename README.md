@@ -1,4 +1,4 @@
-<img width="100%" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzV3ZGsyajVwODNrY2ZoMmwydTF6M3F2OGh4ZXV1Zmt4ZWNhcHRiNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q9aBxHn9fTqKs/giphy.gif"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=F7CF38"/>
 
 
 <div align="center">
