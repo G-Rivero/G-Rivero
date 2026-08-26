@@ -4,11 +4,11 @@
 
     <!-- Fundo / bola animada -->
     <image
-      href="https://capsule-render.vercel.app/api?type=venom&height=300&color=F8D862" x="0"      y="0"      width="1200"      height="300"      preserveAspectRatio="none"    />
+      href="https://capsule-render.vercel.app/api?type=venom&height=300&color=F8D862"/>
 
     <!-- Typing centralizado -->
     <image
-      href="https://typingsvg.vercel.app/api/svg?lines=%5B%7B%22text%22%3A%22Welcome%21%22%2C%22typingSpeed%22%3A0.2%2C%22deleteSpeed%22%3A0.1%7D%2C%7B%22text%22%3A%22Bem-Vindo%21%22%7D%2C%7B%22text%22%3A%22Willkommen%21%22%7D%5D"      x="400"      y="125"      width="400"      height="50"    />
+      href="https://typingsvg.vercel.app/api/svg?lines=%5B%7B%22text%22%3A%22Welcome%21%22%2C%22typingSpeed%22%3A0.2%2C%22deleteSpeed%22%3A0.1%7D%2C%7B%22text%22%3A%22Bem-Vindo%21%22%7D%2C%7B%22text%22%3A%22Willkommen%21%22%7D%5D" />
 
   </svg>
 </div>
