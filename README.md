@@ -26,7 +26,7 @@
     <br>
 <div align="center">
 
-<h3>Tecnologias</h3>
+<h5>Tecnologias</h5>
 <div style="display: inline_block">
   <img align="center" alt="Java" height="50" width="50" src="https://static.vecteezy.com/system/resources/previews/048/332/150/non_2x/java-programming-language-java-logo-free-png.png">
   <img align="center" alt="Python" height="50" width="50" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-1024.png">
@@ -37,12 +37,15 @@
   <img align="center" alt="SQL" height="50" width="50" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/azure-sql-database-icon.png">
 </div>
 <br>
-<h3>Plataformas</h3>
+<h5>Plataformas</h5>
 <div style="display: inline_block">
-  <img align="center" alt="Office" height="50" width="50" src="https://tienda.soportealpha.com/wp-content/uploads/2020/05/1200px-Microsoft_Office_logo_2019%E2%80%93present.svg_-600x600.png">
   <img align="center" alt="Android" height="50" width="50" src="https://static.freepnglogo.com/images/all_img/android-studio-logo-2023-51ae.png">
+  <img align="center" alt="IntelliJ" height="50" width="50" src="https://vectorseek.com/wp-content/uploads/2023/08/IntelliJ-IDEA-Logo-Vector.svg-.png">
+  <img align="center" alt="VsCode" height="50" width="50" src="https://iconape.com/wp-content/files/ie/112455/png/visual-studio-code-1.png">
+  <img align="center" alt="VisualStudio" height="50" width="50" src="https://images.seeklogo.com/logo-png/43/2/microsoft-visual-studio-logo-png_seeklogo-430845.png">
   <img align="center" alt="MySQL" height="50" width="50" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png">
   <img align="center" alt="Postgres" height="50" width="50" src="https://static.macupdate.com/products/60968/m/pgadmin-4-logo.png?v=1663919429">
+  <img align="center" alt="Office" height="50" width="50" src="https://tienda.soportealpha.com/wp-content/uploads/2020/05/1200px-Microsoft_Office_logo_2019%E2%80%93present.svg_-600x600.png">
   <img align="center" alt="Figma" height="50" width="50" src="https://logodownload.org/wp-content/uploads/2022/12/figma-logo-0.png">
 </div>
 
