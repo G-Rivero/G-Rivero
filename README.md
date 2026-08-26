@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=F7CF38"/>
 
-<img src="./header.svg" width="100%" />
+<img src="header.svg" width="100%" />
 
 <div align="center">
   <samp>
