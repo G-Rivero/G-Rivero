@@ -4,8 +4,9 @@
 
 
 <div align="center">
-  <a><img src="https://capsule-render.vercel.app/api?type=venom&amp;height=300&amp;color=F8D862" alt="Typing SVG"></a>
+  
   <samp>
+    <a><img src="https://capsule-render.vercel.app/api?type=venom&amp;height=300&amp;color=F8D862" alt="Typing SVG"></a>
     <h3>Meu nome é Guilherme, e:</h3>
     <br>
     <p>🌱 - Atualmente cursando Desenvolvimento de Sistemas</p>
