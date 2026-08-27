@@ -1,9 +1,10 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=F7CF38"/>
 
-<a><img src="https://typingsvg.vercel.app/api/svg?lines=%5B%7B%22text%22%3A%22Welcome%21%22%2C%22typingSpeed%22%3A0.2%2C%22deleteSpeed%22%3A0.1%7D%2C%7B%22text%22%3A%22Bem-Vindo%21%22%7D%2C%7B%22text%22%3A%22Willkommen%21%22%7D%5D" alt="Typing SVG"></a>
+
 
 
 <div align="center">
+  <a><img src="https://typingsvg.vercel.app/api/svg?lines=%5B%7B%22text%22%3A%22Welcome%21%22%2C%22typingSpeed%22%3A0.2%2C%22deleteSpeed%22%3A0.1%7D%2C%7B%22text%22%3A%22Bem-Vindo%21%22%7D%2C%7B%22text%22%3A%22Willkommen%21%22%7D%5D" alt="Typing SVG"></a>
   <samp>
     <h3>Meu nome é Guilherme, e:</h3>
     <br>
