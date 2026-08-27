@@ -6,7 +6,7 @@
 <div align="center">
   
   <samp>
-    <a><img src="https://capsule-render.vercel.app/api?type=venom&amp;height=300&amp;color=F8D862;text=Welcome!" alt="Typing SVG"></a>
+    <a><img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=F8D862&text=Welcome!&fontSize=45&fontColor=F8D862&animation=fadeIn&section=header&reversal=false&fontAlignY=50&stroke=ffff&strokeWidth=5" alt="Typing SVG"></a>
     <h3>Meu nome é Guilherme, e:</h3>
     <br>
     <p>🌱 - Atualmente cursando Desenvolvimento de Sistemas</p>
