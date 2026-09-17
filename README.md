@@ -7,7 +7,7 @@
   
   <samp>
     <a><img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=F8D862&text=Welcome!&fontSize=45&fontColor=FF000&animation=fadeIn&section=header&reversal=false&fontAlignY=50&stroke=ffff&strokeWidth=0" alt="Typing SVG"></a>
-    <h3>Meu nome é Guilherme, e:</h3>
+    <h3>Meu nome é gaga, e:</h3>
     <br>
     <p>🌱 - Atualmente cursando Desenvolvimento de Sistemas</p>
     <p>🔭 - Quero seguir com desenvolvimento back-end ou analista de dados</p> 
